@@ -12,7 +12,6 @@ class Train
     @speed = 0
 
     @route = nil
-
   end
 
   def speed_up(sp = 1)
